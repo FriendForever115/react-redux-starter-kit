@@ -1,15 +1,15 @@
-# [react-redux-starter-kit](http://cloudmu.github.io/react-redux-starter-kit/)
+# [react-redux-starter-kit](http://FriendForever115.github.io/react-redux-starter-kit/)
 
 This is yet another single page web application template using React. However, this project attempts to balance simplicity with developing a real web application that actually "does something useful". 
 It demonstrates authentication, navigation, asynchronous data fetching, error handling, and caching and pagination, etc. using the technologies listed below.
 
-But first, the [demo!](http://cloudmu.github.io/react-redux-starter-kit/) It displays information retrieved from the Github API - most followed users and most starred repo's. 
+But first, the [demo!](http://FriendForever115.github.io/react-redux-starter-kit/) It displays information retrieved from the Github API - most followed users and most starred repo's. 
 Credentials are user *admin* and password *password*. 
 
 Note the deployed demo may not always be up to date. Check out the latest project and [run the demo](#getting-started) yourself.
 Here's a screenshot:
 
-![alt text](https://raw.githubusercontent.com/cloudmu/react-redux-starter-kit/master/screenshot.png "Screenshot")
+![alt text](https://raw.githubusercontent.com/FriendForever115/react-redux-starter-kit/master/screenshot.png "Screenshot")
 
 ## Technologies used:
 
@@ -69,7 +69,7 @@ Thanks to [create-react-app](https://github.com/facebookincubator/create-react-a
 To get started, please clone this git repository and then run `npm install` once under the project top-level directory. 
 
 ```
-git clone https://github.com/cloudmu/react-redux-starter-kit.git
+git clone https://github.com/FriendForever115/react-redux-starter-kit.git
 cd react-redux-starter-kit
 npm install
 ```
@@ -104,7 +104,7 @@ Note: `eject` is an advanced `create-react-app` tool. Read the [how-to](https://
 ## An API Server
 The text and scripts above describe the client-side code that is displayed in the web browser. They rely on the Webpack-provided development server that runs on port 3000. 
 
-This project also contains a separate [API server](https://github.com/cloudmu/react-redux-starter-kit/tree/master/server) that runs on a different port (3001) and handles authentication for certain UI pages using JWT based authentication.
+This project also contains a separate [API server](https://github.com/FriendForever115/react-redux-starter-kit/tree/master/server) that runs on a different port (3001) and handles authentication for certain UI pages using JWT based authentication.
 The client login/logout requests will be proxied to the API server as described in: 
 [Proxying API Requests in Development](https://github.com/facebookincubator/create-react-app/blob/ef94b0561d5afb9b50b905fa5cd3f94e965c69c0/template/README.md#proxying-api-requests-in-development).
 
